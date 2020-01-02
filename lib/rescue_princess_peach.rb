@@ -4,8 +4,3 @@ def rescue_princess_peach(status)
 end
 
 rescue_princess_peach(status)
-
-## Comment the below back in to see method scope in action!
-
-# rescue_princess_peach
-# puts status
